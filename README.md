@@ -14,8 +14,8 @@ I enable construction and commissioning teams to move from manual spreadsheets t
 
 **Data Engineering:** Python · Pandas · NumPy · ETL · API Integration · SQL · JSON · CSV · Data Cleaning  
 **Construction Tech:** Smartsheet · Procore · QC / NCR / Punch List Reporting  
-**UX/UI Design:** User Flows · Wireframing · High-Fidelity Mockups · Design Systems · Mobile-First Design · Usability-Focused Interfaces
-**iOS Development:** SwiftUI · MVVM Architecture · State-Driven UI · Mobile App Development (In Progress)
+**UX/UI Design:** User Flows · Wireframing · High-Fidelity Mockups · Design Systems · Mobile-First Design · Usability-Focused Interfaces  
+**iOS Development:** SwiftUI · MVVM Architecture · State-Driven UI · Mobile App Development (In Progress)  
 **Automation & Visualization:** Astro · React · Tailwind · Nivo · Matplotlib · Smartsheet API · UX Dashboard Design  
 **Cloud & Dev Tools:** GitHub · Virtual Environments · REST APIs  
 **AI & Automation:** ChatGPT · Cursor AI · LLM-based Data Parsing · Prompt Engineering for AI-Assisted Development  
@@ -44,10 +44,10 @@ Designed a mobile-first reading tracker experience from the ground up, focusing 
 **Data Engineering:** Python · Pandas · NumPy · ETL · Data Cleaning  
 **Visualization & UX:** Matplotlib · Plotly · Nivo · Dashboard UX · Information Design  
 **UX/UI Design:** Wireframing · Design Systems · Mobile UX · Interaction Design  
-**iOS Development:** SwiftUI · MVVM · State Management · Mobile App Architecture
+**iOS Development:** SwiftUI · MVVM · State Management · Mobile App Architecture  
 **Web Frameworks:** Astro · React · Tailwind CSS  
 **APIs & Integration:** Smartsheet API · Procore API · REST APIs · JSON · CSV  
-**Dev Tools:** GitHub · Virtual Environments · Xcode · Cursor AI · ChatGPT · LLM Parsing 
+**Dev Tools:** GitHub · Virtual Environments · Xcode · Cursor AI · ChatGPT · LLM Parsing  
 
 ---
 
