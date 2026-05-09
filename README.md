@@ -12,7 +12,7 @@ I leverage modern development tools, AI-assisted workflows (ChatGPT, Cursor), an
 
 ## 🧰 What I Do
 
-**Workflow Automation & Operational Systems:** Dashboard tooling · KPI reporting · Process automation · Structured data workflows · Internal tools  
+**Workflow Automation & Operational Systems:** Dashboard systems · KPI reporting · Process automation · Internal tools
 **Construction Tech & Digital Delivery:** Smartsheet · Procore · QC / NCR / Punch List Reporting · Commissioning Workflows  
 **Data & Reporting Systems:** Python · Pandas · SQL · JSON / CSV Processing · ETL Workflows · Data Visualization  
 **Frontend & UX Systems:** Astro · React · Tailwind · UX/UI Design · Design Systems · Information Architecture  
