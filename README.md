@@ -12,12 +12,12 @@ I leverage modern development tools, AI-assisted workflows (ChatGPT, Cursor), an
 
 ## 🧰 What I Do
 
-**Workflow Automation & Operational Systems:** Dashboard tooling · KPI reporting · Process automation · Structured data workflows · Internal tools
-**Construction Tech & Digital Delivery:** Smartsheet · Procore · QC / NCR / Punch List Reporting · Commissioning Workflows
-**Data & Reporting Systems:** Python · Pandas · SQL · JSON / CSV Processing · ETL Workflows · Data Visualization
-**Frontend & UX Systems:** Astro · React · Tailwind · UX/UI Design · Design Systems · Information Architecture
-**iOS Development (In Progress):** SwiftUI · MVVM · State-Driven UI · Mobile Application Architecture
-**AI-Assisted Development:** ChatGPT · Cursor AI · Workflow acceleration · LLM-assisted parsing & implementation
+**Workflow Automation & Operational Systems:** Dashboard tooling · KPI reporting · Process automation · Structured data workflows · Internal tools  
+**Construction Tech & Digital Delivery:** Smartsheet · Procore · QC / NCR / Punch List Reporting · Commissioning Workflows  
+**Data & Reporting Systems:** Python · Pandas · SQL · JSON / CSV Processing · ETL Workflows · Data Visualization  
+**Frontend & UX Systems:** Astro · React · Tailwind · UX/UI Design · Design Systems · Information Architecture  
+**iOS Development (In Progress):** SwiftUI · MVVM · State-Driven UI · Mobile Application Architecture  
+**AI-Assisted Development:** ChatGPT · Cursor AI · Workflow acceleration · LLM-assisted parsing & implementation  
 
 ---
 
@@ -43,7 +43,7 @@ Designed a mobile-first reading tracker experience focused on intuitive navigati
 Python • Pandas • SQL • Smartsheet • Procore • AlloyCx  
 Astro • React • Tailwind • SwiftUI • MVVM  
 ETL Workflows • KPI Dashboards • Workflow Automation  
-GitHub • Xcode • ChatGPT • Cursor AI 
+GitHub • Xcode • ChatGPT • Cursor AI  
 
 ---
 
