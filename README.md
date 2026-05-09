@@ -1,4 +1,4 @@
-# 🏗️ Sam H — Construction Data Engineer & Digital Delivery Specialist
+# 🏗️ Sam H — Workflow Automation & Digital Delivery
 
 I build workflow systems, dashboard tools, and operational automation solutions that improve how teams capture, organize, and use data.
 
