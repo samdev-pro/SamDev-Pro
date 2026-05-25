@@ -40,7 +40,7 @@ Designed a mobile-first reading tracker experience focused on intuitive navigati
 
 ## 🧠 Tech Highlights
 
-Python • Pandas • SQL • Smartsheet • Procore • AlloyCx  
+Python • Pandas • SQL • Smartsheet • Procore • CxAlloy  
 Astro • React • Tailwind • SwiftUI • MVVM  
 ETL Workflows • KPI Dashboards • Workflow Automation  
 GitHub • Xcode • ChatGPT • Cursor AI  
