@@ -27,14 +27,11 @@ I leverage modern development tools, AI-assisted workflows (ChatGPT, Cursor), an
 
 - [**KPI Construction Bot**](https://github.com/samdev-pro/KPI-Construction-Bot) – Built a Python-based automation engine that generates and emails KPI reports for QC and budgeting workflows. Streamlines data processing, reduces manual reporting time, and ensures timely delivery of actionable project metrics.
 
-<!-- - [**Book Tracking App — UX/UI Case Study**](https://github.com/samdev-pro/Book-Tracking-App-UX-UI-Case-Study)  
-Designed a mobile-first reading tracker experience focused on intuitive navigation, scalable design systems, and usability-driven interface architecture. Includes user flows, high-fidelity mockups, and interaction patterns demonstrating UX systems thinking and product design execution.-->
-
 ---
 
 ## 🚀 Current Focus
 
--  **Book Tracker iOS App** – Designing and developing a production-oriented iPhone application using SwiftUI + MVVM, with emphasis on UX architecture, scalable state management, and design-system consistency.
+-  **iOS App** – Designing and developing a production-oriented iPhone application using SwiftUI + MVVM, with emphasis on UX architecture, scalable state management, and design-system consistency.
 
 ---
 
