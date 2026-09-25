@@ -31,7 +31,9 @@ I leverage modern development tools, AI-assisted workflows (ChatGPT, Cursor), an
 
 ## 🚀 Current Focus
 
--  **iOS App** – Designing and developing a production-oriented iPhone application using SwiftUI + MVVM, with emphasis on UX architecture, scalable state management, and design-system consistency.
+-  **iOS App** – Designed and developed an iPhone application using SwiftUI + MVVM, with emphasis on UX architecture, scalable state management, and design-system consistency. **Completed the MVP and demonstrated the product to a potential strategic partner.**
+
+**Next Step:** Preparing V1 for App Store launch.
 
 ---
 
